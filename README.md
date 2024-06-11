@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-
+!["Snake svg"](snake.svg)
 
 ###

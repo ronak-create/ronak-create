@@ -1,0 +1,99 @@
+<svg viewBox="0 0 1500 420"
+     width="100%"
+     xmlns="http://www.w3.org/2000/svg"
+     preserveAspectRatio="xMidYMid meet"
+     aria-label="Neon Matrix Banner">
+
+  <defs>
+    <!-- Glow filter -->
+    <filter id="neon">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    /* BACKGROUND */
+    .bg { fill: #050b08; }
+
+    /* MATRIX TEXT */
+    .matrix {
+      font-family: monospace;
+      font-size: 18px;
+      fill: #00ff66;
+      opacity: 0.25;
+      animation: fall 6s linear infinite;
+    }
+
+    /* TITLE */
+    .title {
+      font-family: "Courier New", monospace;
+      font-size: 96px;
+      fill: #00ffcc;
+      stroke: #00ffcc;
+      stroke-width: 2;
+      filter: url(#neon);
+      animation: flicker 3s infinite;
+    }
+
+    /* SUBTITLE */
+    .subtitle {
+      font-family: "Courier New", monospace;
+      font-size: 42px;
+      fill: #caffea;
+      opacity: 0;
+      animation: fadeIn 1.5s ease forwards;
+      animation-delay: 1.5s;
+    }
+
+    /* ANIMATIONS */
+    @keyframes fall {
+      from { transform: translateY(-450px); }
+      to   { transform: translateY(450px); }
+    }
+
+    @keyframes flicker {
+      0%,100% { opacity: 1; }
+      50% { opacity: 0.75; }
+      70% { opacity: 0.9; }
+    }
+
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <!-- BACKGROUND -->
+  <rect class="bg" x="0" y="0" width="1500" height="420"/>
+
+  <!-- MATRIX RAIN -->
+  <g>
+    <text x="100"  y="0" class="matrix">101001010101</text>
+    <text x="300"  y="0" class="matrix" style="animation-delay:1s">110010101001</text>
+    <text x="500"  y="0" class="matrix" style="animation-delay:2s">011010010101</text>
+    <text x="700"  y="0" class="matrix" style="animation-delay:0.5s">010101110010</text>
+    <text x="900"  y="0" class="matrix" style="animation-delay:1.8s">101010011010</text>
+    <text x="1100" y="0" class="matrix" style="animation-delay:0.8s">110101010010</text>
+    <text x="1300" y="0" class="matrix" style="animation-delay:2.4s">010010101101</text>
+  </g>
+
+  <!-- MAIN TEXT -->
+  <text x="50%" y="48%"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        class="title">
+    192.168.1.1
+  </text>
+
+  <!-- SUB TEXT -->
+  <text x="50%" y="63%"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        class="subtitle">
+    localhost
+  </text>
+
+</svg>

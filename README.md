@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Ronak here, a UG Software Developer.</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=900&height=60&lines=Hi+%F0%9F%91%8B!+Ronak+here%2C+a+UG+Software+Developer." alt="Typing SVG" /></a>
 <br/>
 <div align="left">
   <p>

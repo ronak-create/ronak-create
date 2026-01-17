@@ -22,47 +22,60 @@
 ###
 <img align="right" height="150" src="https://media.tenor.com/VO1ky4CNpYcAAAAi/veegeetea-out-of-control.gif"  />
 
-<h3 align="left">🛠 Tech Stack</h3>
 
 <div align="left">
-  <p>
-    <b>Languages:</b>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  </p>
-
-  <p>
-    <b>Backend & Databases:</b>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  </p>
-
-  <p>
-    <b>Frontend:</b>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35"/>
+  <img width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35"/>
+  <img width="35"/>
 </div>
 
+<br clear="right"/>
 <br/>
 
 <div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ronak-create?cardType=level&theme=radical&preferLogin=false" height="150" alt="stats graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak-create&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+
+  <img height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/ronak-create?cardType=level&theme=radical&preferLogin=false" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&layout=compact" />
+
 </div>
 
-<h3 align="left">📬 Let’s Connect</h3>
-
-<div align="left">
+<br clear="both"/>
+<div align="center">
   <a href="mailto:ronakparmar2428@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   </a>
@@ -71,6 +84,9 @@
   </a>
   <a href="https://www.instagram.com/ronak._.parmar02/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://codepen.io/Ron2428">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=FFFFFF&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
 

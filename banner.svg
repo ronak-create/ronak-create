@@ -71,7 +71,7 @@
     <!-- Center fade mask -->
     <radialGradient id="centerFade">
       <stop offset="0%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="65%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="65%" stop-color="#000" stop-opacity="0.45"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0.85"/>
     </radialGradient>
   </defs>

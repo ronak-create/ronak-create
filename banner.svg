@@ -118,15 +118,7 @@
         text-anchor="middle"
         dominant-baseline="middle"
         class="title">
-    192.168.1.1
-  </text>
-
-  <!-- SUBTEXT -->
-  <text x="50%" y="68%"
-        text-anchor="middle"
-        dominant-baseline="middle"
-        class="subtitle">
-    localhost
+    Hello World!
   </text>
 
 </svg>

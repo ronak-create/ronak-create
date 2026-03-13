@@ -93,7 +93,7 @@
 <br clear="both"/>
 
 <p align="center">
-  <i>"I’m not racing others. I’m building depth."</i>
+  <i>building depth</i>
 </p>
 
 <br/>

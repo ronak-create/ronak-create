@@ -1,29 +1,20 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=900&height=60&lines=Hi+%F0%9F%91%8B!+Ronak+here%2C+a+UG+Software+Developer." alt="Typing SVG" /></a>
-<br/>
-<div align="left">
-  <p>
-    I’m a Computer Science undergraduate who enjoys building <b>real systems</b>.
-    My focus is on backend development, system design, and understanding how things work under the hood.
-  </p>
+<p align="center">
+  <img src="https://gist.githubusercontent.com/Fabian-Martinez-Rincon/47a7edee2ca4ed8eb69e00d6037eff72/raw/0928a033f9fd50a3b1786da35446e4f3ad54c6d4/vegeta.gif" width="600"/>
+</p>
 
-  <ul>
-    <li>🔧 Backend-first mindset with strong fundamentals</li>
-    <li>🌐 Building APIs, web platforms, and system-driven applications</li>
-    <li>🚀 Interested in scalable architectures, networking, and performance</li>
-    <li>📚 Learning beyond the syllabus — consistently</li>
-  </ul>
+---
 
-  <p>
-    I don’t just write code — I design how systems should work.
-  </p>
-</div>
+CS undergrad. Creative focus — APIs, system design, understanding how things actually work.
 
+**Working with** Python, Flask, Node.js, MongoDB, TS/JS, MySQL, C, React, System Architecture, CI/CD Pipelines.  
+**Occasionally**: pandas, numpy, OpenCV, TensorFlow, AI/ML Research & Development.
 
-###
-<img align="right" height="150" src="https://media.tenor.com/VO1ky4CNpYcAAAAi/veegeetea-out-of-control.gif"  />
+Building:
+- Foundation-cli : [![npm version](https://img.shields.io/npm/v/@systemlabs/foundation-cli?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
+- C based QBE compiled JS compiler : [JS compiler](https://github.com/ronak-create/Dragoon-The-Js-Compiler)
+- TALKS - [TALKS](https://talks-on8z.onrender.com/)
 
-
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
   <img width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
@@ -62,12 +53,12 @@
   <img width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35"/>
   <img width="35"/>
-</div>
+</div> -->
 
 <br clear="right"/>
 <br/>
 
-<div align="center">
+<div align="center" margin="50px">
 
   <img height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/ronak-create?cardType=level&theme=radical&preferLogin=false" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&layout=compact" />
@@ -95,8 +86,6 @@
 <p align="center">
   <i>building depth</i>
 </p>
-
-<br/>
 
 ###
 

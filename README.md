@@ -100,6 +100,6 @@
 
 ###
 
-!["Snake svg"](snake.svg)
+![snake gif](https://raw.githubusercontent.com/ronak-create/ronak-create/output/snake.svg)
 
 ###

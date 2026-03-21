@@ -4,44 +4,42 @@
 
 ---
 
-
-## $${\\color{red}\text{[CS undergrad]}}$$ $${\\color{green}\text{Creative focus}}$$ $${\\color{blue}\text{ —\ APIs,\ system\ design,\ understanding\ how\ things\ actually\ work.}}$$
-
+## $${\color{gray}\text{[CS undergrad] Creative focus — APIs, system design, understanding how things actually work.}}$$
 ---
  
 <div align="center">
 <table>
   <tr>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=c" height="40"/><br/>$${\color{gray}\text{C}}$$
+      <img src="./assets/c-icon.svg" height="40"/><br/>$${\color{gray}\text{C}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40"/><br/>$${\color{gray}\text{Python}}$$
+      <img src="./assets/python-icon.svg" height="40"/><br/>$${\color{gray}\text{Python}}$$
     </td>
     <!-- java removed -->
     <td align="center" width="100" height="40">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40"/><br/>$${\color{gray}\text{JavaScript}}$$
+      <img src="./assets/js-icon.svg" height="40"/><br/>$${\color{gray}\text{JavaScript}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="40"/><br/>$${\color{gray}\text{TypeScript}}$$
+      <img src="./assets/ts-icon.svg" height="40"/><br/>$${\color{gray}\text{TypeScript}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" height="40"/><br/>$${\color{gray}\text{React}}$$
+      <img src="./assets/react-icon.svg" height="40"/><br/>$${\color{gray}\text{React}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=fastapi" height="40"/><br/>$${\color{gray}\text{Fast API}}$$
+      <img src="./assets/fastapi-icon.svg" height="40"/><br/>$${\color{gray}\text{Fast API}}$$
     </td>
     <td align="center" width="100" height="40">
       <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>$${\color{gray}\text{Node.js}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=express" height="40"/><br/>$${\color{gray}\text{Express}}$$
+      <img src="./assets/express-icon.svg" height="40"/><br/>$${\color{gray}\text{Express}}$$
     </td>
   </tr>
 
   <tr>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=flask" height="40"/><br/>$${\color{gray}\text{Flask}}$$
+      <img src="./assets/flask-icon.svg" height="40"/><br/>$${\color{gray}\text{Flask}}$$
     </td>
     <!-- django removed -->
     <td align="center" width="100" height="40">
@@ -58,13 +56,13 @@
       <img src="https://skillicons.dev/icons?i=postgres" height="40"/><br/>$${\color{gray}\text{PostgreSQL}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40"/><br/>$${\color{gray}\text{MySQL}}$$
+      <img src="./assets/mysql-icon.svg" height="40"/><br/>$${\color{gray}\text{MySQL}}$$
     </td>
     <td align="center" width="100" height="40">
       <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br/>$${\color{gray}\text{SQLite}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" height="40"/><br/>$${\color{gray}\text{GitHub}}$$
+      <img src="./assets/github-icon.svg" height="40"/><br/>$${\color{gray}\text{GitHub}}$$
     </td>
   </tr>
 
@@ -73,13 +71,13 @@
       <img src="https://skillicons.dev/icons?i=redis" height="40"/><br/>$${\color{gray}\text{Redis}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=git" height="40"/><br/>$${\color{gray}\text{Git}}$$
+      <img src="./assets/git-icon.svg" height="40"/><br/>$${\color{gray}\text{Git}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=firebase" height="40"/><br/>$${\color{gray}\text{Firebase}}$$
+      <img src="./assets/firebase-icon.svg" height="40"/><br/>$${\color{gray}\text{Firebase}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="40"/><br/>$${\color{gray}\text{Docker}}$$
+      <img src="./assets/docker-icon.svg" height="40"/><br/>$${\color{gray}\text{Docker}}$$
     </td>
     <td align="center" width="100" height="40">
       <img src="https://skillicons.dev/icons?i=githubactions" height="40"/><br/>$${\color{gray}\text{GActions}}$$
@@ -88,7 +86,7 @@
       <img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>$${\color{gray}\text{Linux}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=bash" height="40"/><br/>$${\color{gray}\text{Bash}}$$
+      <img src="./assets/bash.svg" height="40"/><br/>$${\color{gray}\text{Bash}}$$
     </td>
     <td align="center" width="100" height="40">
       <img src="https://skillicons.dev/icons?i=vscode" height="40"/><br/>$${\color{gray}\text{VS Code}}$$

@@ -21,7 +21,7 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40"/><br/>$${\color{gray}\text{JavaScript}}$$
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=ts" height="40"/><br/>$${\color{gray}\text{TypeScript}}$$
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="40"/><br/>$${\color{gray}\text{TypeScript}}$$
     </td>
     <td align="center" width="100" height="40">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" height="40"/><br/>$${\color{gray}\text{React}}$$

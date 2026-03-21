@@ -5,8 +5,10 @@
 ---
 
 
-## $${\\color{blue}\text{CS undergrad.\ Creative focus\ —\ APIs,\ system\ design,\ understanding\ how\ things\ actually\ work.}}$$
+## $${\\color{red}\text{[CS undergrad]}}$$ $${\\color{green}\text{Creative focus}}$$ $${\\color{blue}\text{ —\ APIs,\ system\ design,\ understanding\ how\ things\ actually\ work.}}$$
 
+---
+ 
 <div align="center">
 <table>
   <tr>

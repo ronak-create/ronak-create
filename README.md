@@ -4,10 +4,96 @@
 
 ---
 
-CS undergrad. Creative focus — APIs, system design, understanding how things actually work.
 
-**Working with** Python, Flask, Node.js, MongoDB, TS/JS, MySQL, C, React, System Architecture, CI/CD Pipelines.  
-**Occasionally**: pandas, numpy, OpenCV, TensorFlow, AI/ML Research & Development.
+## $${\\color{blue}\text{CS undergrad.\ Creative focus\ —\ APIs,\ system\ design,\ understanding\ how\ things\ actually\ work.}}$$
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=c" height="40"/><br/>$${\color{gray}\text{C}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40"/><br/>$${\color{gray}\text{Python}}$$
+    </td>
+    <!-- java removed -->
+    <td align="center" width="100" height="40">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40"/><br/>$${\color{gray}\text{JavaScript}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=ts" height="40"/><br/>$${\color{gray}\text{TypeScript}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" height="40"/><br/>$${\color{gray}\text{React}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=fastapi" height="40"/><br/>$${\color{gray}\text{Fast API}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>$${\color{gray}\text{Node.js}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=express" height="40"/><br/>$${\color{gray}\text{Express}}$$
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=flask" height="40"/><br/>$${\color{gray}\text{Flask}}$$
+    </td>
+    <!-- django removed -->
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br/>$${\color{gray}\text{TensorFlow}}$$
+    </td>
+    <!-- pytorch removed -->
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=opencv" height="40"/><br/>$${\color{gray}\text{OpenCV}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br/>$${\color{gray}\text{MongoDB}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=postgres" height="40"/><br/>$${\color{gray}\text{PostgreSQL}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40"/><br/>$${\color{gray}\text{MySQL}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br/>$${\color{gray}\text{SQLite}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" height="40"/><br/>$${\color{gray}\text{GitHub}}$$
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=redis" height="40"/><br/>$${\color{gray}\text{Redis}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=git" height="40"/><br/>$${\color{gray}\text{Git}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=firebase" height="40"/><br/>$${\color{gray}\text{Firebase}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="40"/><br/>$${\color{gray}\text{Docker}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=githubactions" height="40"/><br/>$${\color{gray}\text{GActions}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>$${\color{gray}\text{Linux}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=bash" height="40"/><br/>$${\color{gray}\text{Bash}}$$
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="https://skillicons.dev/icons?i=vscode" height="40"/><br/>$${\color{gray}\text{VS Code}}$$
+    </td>
+  </tr>
+</table>
+</div>
 
 Building:
 - Foundation-cli : [![npm version](https://img.shields.io/npm/v/@systemlabs/foundation-cli?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@systemlabs/foundation-cli)

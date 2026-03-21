@@ -1,0 +1,85 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+
+  <defs>
+<style>
+  #c-letter {
+    stroke-dasharray: 1;
+    animation: collapseExpand 4s ease-in-out infinite;
+  }
+
+  @keyframes collapseExpand {
+
+    /* full visible (stroke only) */
+    0% {
+      stroke-dashoffset: 0;
+      fill-opacity: 0;
+    }
+
+    /* collapse */
+    25% {
+      stroke-dashoffset: 0.5;
+      fill-opacity: 0;
+    }
+
+    /* fully collapsed */
+    35% {
+      stroke-dashoffset: 1;
+      fill-opacity: 0;
+    }
+
+    /* expand back */
+    60% {
+      stroke-dashoffset: 0;
+      fill-opacity: 0;
+    }
+
+    /* fade into fill */
+    80% {
+      stroke-dashoffset: 0;
+      fill-opacity: 1;
+    }
+
+    /* HOLD filled (pause) */
+    100% {
+      stroke-dashoffset: 0;
+      fill-opacity: 1;
+    }
+  }
+</style>
+
+    <!-- Clip shine strictly to the C shape so light only hits the letter -->
+    <clipPath id="c-clip">
+      <path
+        d="M134.001 33C169.144 33 199.828 52.0863 216.262 80.4561L216.102 80.183L174.753 103.991C166.607 90.1977 151.672 80.8892 134.54 80.6975L134.001 80.6945C107.875 80.6945 86.6945 101.874 86.6945 127.999C86.6945 136.543 88.9723 144.552 92.9335 151.469C101.088 165.704 116.416 175.306 134.001 175.306C151.693 175.306 167.109 165.582 175.222 151.195L175.025 151.54L216.311 175.458C200.057 203.588 169.794 222.615 135.059 222.994L134.001 223C98.746 223 67.9753 203.796 51.582 175.276C43.5791 161.353 39 145.212 39 127.999C39 75.5334 81.5323 33 134.001 33Z" />
+    </clipPath>
+
+    <!-- Skewed glass strip: transparent → bright white → transparent -->
+    <linearGradient id="shine-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="white" stop-opacity="0" />
+      <stop offset="40%" stop-color="white" stop-opacity="0" />
+      <stop offset="50%" stop-color="white" stop-opacity="0.55" />
+      <stop offset="60%" stop-color="white" stop-opacity="0" />
+      <stop offset="100%" stop-color="white" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- ① Background: completely static, never touched -->
+  <rect width="256" height="256" rx="60" fill="#394AAB" />
+
+  <!-- ② The C letter: spins around center -->
+<path id="c-letter"
+  d="M134.001 33C169.144 33 199.828 52.0863 216.262 80.4561L216.102 80.183L174.753 103.991C166.607 90.1977 151.672 80.8892 134.54 80.6975L134.001 80.6945C107.875 80.6945 86.6945 101.874 86.6945 127.999C86.6945 136.543 88.9723 144.552 92.9335 151.469C101.088 165.704 116.416 175.306 134.001 175.306C151.693 175.306 167.109 165.582 175.222 151.195L175.025 151.54L216.311 175.458C200.057 203.588 169.794 222.615 135.059 222.994L134.001 223C98.746 223 67.9753 203.796 51.582 175.276C43.5791 161.353 39 145.212 39 127.999C39 75.5334 81.5323 33 134.001 33Z"
+  fill="white"
+  stroke="white"
+  stroke-width="18"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  pathLength="1"
+/>
+  <!-- ③ Shine: clipped to C, sweeps once after spin -->
+  <g clip-path="url(#c-clip)">
+    <rect id="shine-rect" x="-60" y="0" width="120" height="256" fill="url(#shine-grad)" transform="skewX(-18)" />
+  </g>
+
+</svg>

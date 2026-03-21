@@ -1,0 +1,81 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none"
+xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+#bolt {
+  transform-origin: 128px 80px;
+  animation: boltMotion 3.5s ease-in-out infinite;
+}
+
+@keyframes boltMotion {
+
+  /* 🔹 idle start */
+  0% {
+    transform: translate(0,0) scaleY(1);
+  }
+
+  /* 🔹 charge (vibration) */
+  8% { transform: scaleY(0.7) translate(-2px,0); }
+  12% { transform: scaleY(0.7) translate(2px,0); }
+  16% { transform: scaleY(0.7) translate(-2px,0); }
+  20% { transform: scaleY(0.7) translate(2px,0); }
+
+  /* ⚡ FAST DROP */
+  28% {
+    transform: translateY(250px) scaleY(1);
+    opacity: 1;
+  }
+
+  /* ⚡ TELEPORT ABOVE */
+  30% {
+    opacity: 0;
+    transform: translateY(-250px);
+  }
+
+  31% {
+    opacity: 1;
+    transform: translateY(-250px);
+  }
+
+  /* ⚡ SETTLE BACK */
+  38% {
+    opacity: 1;
+    transform: translateY(10px);
+  }
+  
+  45% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* 😌 BREATHING (idle loop feel) */
+  60% {
+    transform: translateY(-3px);
+  }
+
+  75% {
+    transform: translateY(3px);
+  }
+
+  90% {
+    transform: translateY(-2px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+  </style>
+
+  <!-- Background -->
+  <rect width="256" height="256" rx="60" fill="#049789"/>
+
+  <!-- White circle -->
+  <circle cx="128" cy="128" r="87" fill="white"/>
+
+  <!-- Bolt (EXTRACTED SHAPE) -->
+  <path id="bolt"
+    d="M122.993 196.839V142.581H92.8306L136.167 58.1615V112.419H165.203L122.993 196.839Z"
+    fill="#049789"/>
+
+</svg>

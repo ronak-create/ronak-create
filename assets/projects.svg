@@ -1,0 +1,155 @@
+<svg width="860" height="260" viewBox="0 0 860 260" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#0000001a"/>
+    </filter>
+
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="100%" style="stop-color:#312e81"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#064e3b"/>
+      <stop offset="100%" style="stop-color:#065f46"/>
+    </linearGradient>
+
+    <!-- <linearGradient id="badge1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#818cf8"/>
+    </linearGradient> -->
+    <linearGradient id="badge2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f97316"/>
+      <stop offset="100%" style="stop-color:#fb923c"/>
+    </linearGradient>
+    <!-- <linearGradient id="badge3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#34d399"/>
+    </linearGradient> -->
+
+    <clipPath id="logoClip1"><rect x="22" y="34" width="36" height="36" rx="8"/></clipPath>
+    <clipPath id="logoClip2"><rect x="312" y="34" width="36" height="36" rx="8"/></clipPath>
+    <clipPath id="logoClip3"><rect x="602" y="34" width="36" height="36" rx="8"/></clipPath>
+  </defs>
+
+
+  <!-- ══════════════════════ CARD 1 — foundation-cli ══════════════════════ -->
+  <rect x="10" y="10" width="260" height="215" rx="16" fill="url(#grad1)" filter="url(#shadow)"/>
+  <rect x="10" y="10" width="260" height="4" rx="2" fill="#6366f1"/>
+
+  <rect x="22" y="34" width="5" height="36" rx="2" fill="#6366f140"/>
+
+  <text x="32" y="50" font-size="14" font-weight="700" fill="#e0e7ff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" letter-spacing="-0.3">Foundation</text>
+  <text x="32" y="65" font-size="10" fill="#a5b4fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-weight="500">by @systemlabs</text>
+
+  <line x1="22" y1="82" x2="252" y2="82" stroke="#ffffff15" stroke-width="1"/>
+
+  <text x="22" y="102" font-size="11.5" fill="#c7d2fe" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">CLI toolkit for scaffolding and</text>
+  <text x="22" y="118" font-size="11.5" fill="#c7d2fe" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">managing project foundations.</text>
+  <text x="22" y="134" font-size="11.5" fill="#c7d2fe" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Fast, opinionated, extensible.</text>
+
+  <rect x="22" y="150" width="70" height="22" rx="11" fill="#ffffff18"/>
+  <text x="57" y="165" text-anchor="middle" font-size="10" fill="#a5b4fc" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">scaffolding</text>
+  <rect x="100" y="150" width="50" height="22" rx="11" fill="#ffffff18"/>
+  <text x="125" y="165" text-anchor="middle" font-size="10" fill="#a5b4fc" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">CLI</text>
+  <rect x="160" y="150" width="70" height="22" rx="11" fill="#ffffff18"/>
+  <text x="195" y="165" text-anchor="middle" font-size="10" fill="#a5b4fc" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">foundation</text>
+
+  <line x1="22" y1="186" x2="252" y2="186" stroke="#ffffff15" stroke-width="1"/>
+
+  <!-- npm icon button -->
+  <a href="https://www.npmjs.com/package/@systemlabs/foundation-cli" target="_blank">
+    <!-- <rect x="22" y="200" width="44" height="36" rx="10" fill="#6366f125"/> -->
+    <text x="30" y="208" font-weight="600" font-size="11.5" fill="#b1bbe3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">npm</text>
+  </a>
+
+  <!-- GitHub icon button -->
+  <a href="https://github.com/ronak-create/Foundation-Cli" target="_blank">
+    <g transform="translate(75,194) scale(0.9)">
+    <path fill="none" fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.475 2 2 6.475 2 12C2 16.425 4.8625 20.1625 8.8375 21.4875C9.3375 21.575 9.525 21.275 9.525 21.0125C9.525 20.775 9.5125 19.9875 9.5125 19.15C7 19.6125 6.35 18.5375 6.15 17.975C6.0375 17.6875 5.55 16.8 5.125 16.5625C4.775 16.375 4.275 15.9125 5.1125 15.9C5.9 15.8875 6.4625 16.625 6.65 16.925C7.55 18.4375 8.9875 18.0125 9.5625 17.75C9.65 17.1 9.9125 16.6625 10.2 16.4125C7.975 16.1625 5.65 15.3 5.65 11.475C5.65 10.3875 6.0375 9.4875 6.675 8.7875C6.575 8.5375 6.225 7.5125 6.775 6.1375C6.775 6.1375 7.6125 5.875 9.525 7.1625C10.325 6.9375 11.175 6.825 12.025 6.825C12.875 6.825 13.725 6.9375 14.525 7.1625C16.4375 5.8625 17.275 6.1375 17.275 6.1375C17.825 7.5125 17.475 8.5375 17.375 8.7875C18.0125 9.4875 18.4 10.375 18.4 11.475C18.4 15.3125 16.0625 16.1625 13.8375 16.4125C14.2 16.725 14.5125 17.325 14.5125 18.2625C14.5125 19.6 14.5 20.675 14.5 21.0125C14.5 21.275 14.6875 21.5875 15.1875 21.4875C17.1727 20.8173 18.8977 19.5415 20.1198 17.8395C21.3419 16.1376 21.9995 14.0953 22 12C22 6.475 17.525 2 12 2Z" stroke="#b1bbe3" stroke-linejoin="round"></path>
+    </g>
+  </a>
+
+  <!-- Website Link -->
+  <a href="https://ronak-create.github.io/Foundation-Cli/" target="_blank">
+    <g transform="translate(118,198) scale(0.9)">
+    <path d="M7.05025 1.53553C8.03344 0.552348 9.36692 0 10.7574 0C13.6528 0 16 2.34721 16 5.24264C16 6.63308 15.4477 7.96656 14.4645 8.94975L12.4142 11L11 9.58579L13.0503 7.53553C13.6584 6.92742 14 6.10264 14 5.24264C14 3.45178 12.5482 2 10.7574 2C9.89736 2 9.07258 2.34163 8.46447 2.94975L6.41421 5L5 3.58579L7.05025 1.53553Z" fill="#b1bbe3"></path> <path d="M7.53553 13.0503L9.58579 11L11 12.4142L8.94975 14.4645C7.96656 15.4477 6.63308 16 5.24264 16C2.34721 16 0 13.6528 0 10.7574C0 9.36693 0.552347 8.03344 1.53553 7.05025L3.58579 5L5 6.41421L2.94975 8.46447C2.34163 9.07258 2 9.89736 2 10.7574C2 12.5482 3.45178 14 5.24264 14C6.10264 14 6.92742 13.6584 7.53553 13.0503Z" fill="#b1bbe3"></path> <path d="M5.70711 11.7071L11.7071 5.70711L10.2929 4.29289L4.29289 10.2929L5.70711 11.7071Z" fill="#b1bbe3"></path>
+    </g>
+  </a>
+
+
+  <!-- ══════════════════════ CARD 2 — Dragoon ══════════════════════ -->
+  <rect x="300" y="10" width="260" height="215" rx="16" fill="url(#grad2)" filter="url(#shadow)"/>
+  <rect x="300" y="10" width="260" height="4" rx="2" fill="#f97316"/>
+
+  <rect x="312" y="34" width="5" height="36" rx="2" fill="#f9731640"/>
+  <image href="./assets/dragoon.png" x="312" y="34" width="36" height="36" clip-path="url(#logoClip2)" preserveAspectRatio="xMidYMid slice"/>
+
+  <text x="322" y="50" font-size="14" font-weight="700" fill="#fff7ed" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" letter-spacing="-0.3">Dragoon</text>
+  <text x="322" y="65" font-size="10" fill="#fdba74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-weight="500">JS → Native Compiler</text>
+
+  <line x1="312" y1="82" x2="542" y2="82" stroke="#ffffff15" stroke-width="1"/>
+
+  <text x="312" y="102" font-size="11.5" fill="#fed7aa" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">C-based JS compiler targeting</text>
+  <text x="312" y="118" font-size="11.5" fill="#fed7aa" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">QBE as IR — lightweight,</text>
+  <text x="312" y="134" font-size="11.5" fill="#fed7aa" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">self-built JS → native pipeline.</text>
+
+  <rect x="312" y="150" width="74" height="22" rx="11" fill="url(#badge2)"/>
+  <text x="349" y="165" text-anchor="middle" font-size="10" fill="white" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">in progress</text>
+  <rect x="394" y="150" width="60" height="22" rx="11" fill="#ffffff18"/>
+  <text x="424" y="165" text-anchor="middle" font-size="10" fill="#fdba74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">compiler</text>
+  <rect x="464" y="150" width="60" height="22" rx="11" fill="#ffffff18"/>
+  <text x="494" y="165" text-anchor="middle" font-size="10" fill="#fdba74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">C · QBE</text>
+
+  <line x1="312" y1="186" x2="542" y2="186" stroke="#ffffff15" stroke-width="1"/>
+
+  <!-- GitHub icon button -->
+  <a href="https://github.com/ronak-create/Dragoon-The-Js-Compiler" target="_blank">
+    <g transform="translate(320,194) scale(0.9)">
+    <path fill="none" fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.475 2 2 6.475 2 12C2 16.425 4.8625 20.1625 8.8375 21.4875C9.3375 21.575 9.525 21.275 9.525 21.0125C9.525 20.775 9.5125 19.9875 9.5125 19.15C7 19.6125 6.35 18.5375 6.15 17.975C6.0375 17.6875 5.55 16.8 5.125 16.5625C4.775 16.375 4.275 15.9125 5.1125 15.9C5.9 15.8875 6.4625 16.625 6.65 16.925C7.55 18.4375 8.9875 18.0125 9.5625 17.75C9.65 17.1 9.9125 16.6625 10.2 16.4125C7.975 16.1625 5.65 15.3 5.65 11.475C5.65 10.3875 6.0375 9.4875 6.675 8.7875C6.575 8.5375 6.225 7.5125 6.775 6.1375C6.775 6.1375 7.6125 5.875 9.525 7.1625C10.325 6.9375 11.175 6.825 12.025 6.825C12.875 6.825 13.725 6.9375 14.525 7.1625C16.4375 5.8625 17.275 6.1375 17.275 6.1375C17.825 7.5125 17.475 8.5375 17.375 8.7875C18.0125 9.4875 18.4 10.375 18.4 11.475C18.4 15.3125 16.0625 16.1625 13.8375 16.4125C14.2 16.725 14.5125 17.325 14.5125 18.2625C14.5125 19.6 14.5 20.675 14.5 21.0125C14.5 21.275 14.6875 21.5875 15.1875 21.4875C17.1727 20.8173 18.8977 19.5415 20.1198 17.8395C21.3419 16.1376 21.9995 14.0953 22 12C22 6.475 17.525 2 12 2Z" stroke="#b1bbe3" stroke-linejoin="round"></path>
+    </g>
+  </a>
+
+
+  <!-- ══════════════════════ CARD 3 — TALKS ══════════════════════ -->
+  <rect x="590" y="10" width="260" height="215" rx="16" fill="url(#grad3)" filter="url(#shadow)"/>
+  <rect x="590" y="10" width="260" height="4" rx="2" fill="#10b981"/>
+
+  <rect x="602" y="34" width="5" height="36" rx="2" fill="#10b98140"/>
+
+  <text x="612" y="50" font-size="14" font-weight="700" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" letter-spacing="-0.3">TALKS</text>
+  <text x="612" y="65" font-size="10" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-weight="500">Real-time comms platform</text>
+
+  <line x1="602" y1="82" x2="832" y2="82" stroke="#ffffff15" stroke-width="1"/>
+
+  <text x="602" y="102" font-size="11.5" fill="#a7f3d0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">A live real-time communication</text>
+  <text x="602" y="118" font-size="11.5" fill="#a7f3d0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">platform — built, deployed, and</text>
+  <text x="602" y="134" font-size="11.5" fill="#a7f3d0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">running on Render.</text>
+
+  <rect x="602" y="150" width="58" height="22" rx="11" fill="#ffffff18"/>
+  <text x="631" y="165" text-anchor="middle" font-size="10" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">flask API</text>
+  <rect x="668" y="150" width="75" height="22" rx="11" fill="#ffffff18"/>
+  <text x="705" y="165" text-anchor="middle" font-size="10" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Web Sockets</text>
+  <rect x="748" y="150" width="65" height="22" rx="11" fill="#ffffff18"/>
+  <text x="780" y="165" text-anchor="middle" font-size="10" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">on Render</text>
+
+  <line x1="602" y1="186" x2="832" y2="186" stroke="#ffffff15" stroke-width="1"/>
+
+  <!-- GitHub icon button -->
+  <a href="https://github.com/ronak-create/TALKS" target="_blank">
+    <g transform="translate(610,194) scale(0.9)">
+    <path fill="none" fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.475 2 2 6.475 2 12C2 16.425 4.8625 20.1625 8.8375 21.4875C9.3375 21.575 9.525 21.275 9.525 21.0125C9.525 20.775 9.5125 19.9875 9.5125 19.15C7 19.6125 6.35 18.5375 6.15 17.975C6.0375 17.6875 5.55 16.8 5.125 16.5625C4.775 16.375 4.275 15.9125 5.1125 15.9C5.9 15.8875 6.4625 16.625 6.65 16.925C7.55 18.4375 8.9875 18.0125 9.5625 17.75C9.65 17.1 9.9125 16.6625 10.2 16.4125C7.975 16.1625 5.65 15.3 5.65 11.475C5.65 10.3875 6.0375 9.4875 6.675 8.7875C6.575 8.5375 6.225 7.5125 6.775 6.1375C6.775 6.1375 7.6125 5.875 9.525 7.1625C10.325 6.9375 11.175 6.825 12.025 6.825C12.875 6.825 13.725 6.9375 14.525 7.1625C16.4375 5.8625 17.275 6.1375 17.275 6.1375C17.825 7.5125 17.475 8.5375 17.375 8.7875C18.0125 9.4875 18.4 10.375 18.4 11.475C18.4 15.3125 16.0625 16.1625 13.8375 16.4125C14.2 16.725 14.5125 17.325 14.5125 18.2625C14.5125 19.6 14.5 20.675 14.5 21.0125C14.5 21.275 14.6875 21.5875 15.1875 21.4875C17.1727 20.8173 18.8977 19.5415 20.1198 17.8395C21.3419 16.1376 21.9995 14.0953 22 12C22 6.475 17.525 2 12 2Z" stroke="#b1bbe3" stroke-linejoin="round"></path>
+    </g>
+  </a>
+
+  <!-- External/live link icon button -->
+  <a href="https://talks-on8z.onrender.com/" target="_blank">
+    <g transform="translate(655,198) scale(0.9)">
+    <path d="M7.05025 1.53553C8.03344 0.552348 9.36692 0 10.7574 0C13.6528 0 16 2.34721 16 5.24264C16 6.63308 15.4477 7.96656 14.4645 8.94975L12.4142 11L11 9.58579L13.0503 7.53553C13.6584 6.92742 14 6.10264 14 5.24264C14 3.45178 12.5482 2 10.7574 2C9.89736 2 9.07258 2.34163 8.46447 2.94975L6.41421 5L5 3.58579L7.05025 1.53553Z" fill="#b1bbe3"></path> <path d="M7.53553 13.0503L9.58579 11L11 12.4142L8.94975 14.4645C7.96656 15.4477 6.63308 16 5.24264 16C2.34721 16 0 13.6528 0 10.7574C0 9.36693 0.552347 8.03344 1.53553 7.05025L3.58579 5L5 6.41421L2.94975 8.46447C2.34163 9.07258 2 9.89736 2 10.7574C2 12.5482 3.45178 14 5.24264 14C6.10264 14 6.92742 13.6584 7.53553 13.0503Z" fill="#b1bbe3"></path> <path d="M5.70711 11.7071L11.7071 5.70711L10.2929 4.29289L4.29289 10.2929L5.70711 11.7071Z" fill="#b1bbe3"></path>
+    </g>
+  </a>
+
+</svg>

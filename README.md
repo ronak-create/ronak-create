@@ -4,7 +4,8 @@
 
 ---
 
-## $${\color{gray}\text{[CS undergrad] Creative focus — APIs, system design, understanding how things actually work.}}$$
+<img src="./assets/heading line.png" alth="Heading"/>
+
 ---
  
 <div align="center">

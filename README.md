@@ -96,86 +96,87 @@
 </table>
 </div>
 
-Building:
-- Foundation-cli : [![npm version](https://img.shields.io/npm/v/@systemlabs/foundation-cli?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
-- C based QBE compiled JS compiler : [JS compiler](https://github.com/ronak-create/Dragoon-The-Js-Compiler)
-- TALKS - [TALKS](https://talks-on8z.onrender.com/)
+---
 
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35"/>
-  <img width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35"/>
-  <img width="35"/>
-</div> -->
+## Building
 
-<br clear="right"/>
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
+### Foundation Cli
+[![npm](https://img.shields.io/npm/v/@systemlabs/foundation-cli?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
+[![downloads](https://img.shields.io/npm/dm/@systemlabs/foundation-cli?style=flat-square&color=a5b4fc)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
+
+> CLI toolkit for scaffolding and managing project foundations — fast, opinionated, and extensible.
+
+![](https://img.shields.io/badge/CLI-6366f1?style=flat-square)
+![](https://img.shields.io/badge/Node.js-6366f1?style=flat-square)
+![](https://img.shields.io/badge/scaffolding-6366f1?style=flat-square)
+
+[npm](https://www.npmjs.com/package/@systemlabs/foundation-cli) · [GitHub](https://github.com/ronak-create/Foundation-Cli) · [Docs](https://ronak-create.github.io/Foundation-Cli/)
+
+</td>
+
+<td valign="top" width="33%">
+
+### Dragoon
+![](https://img.shields.io/badge/status-in%20progress-f97316?style=flat-square)
+
+> C-based JS compiler targeting QBE as IR — a lightweight, self-built JS → native pipeline.
+
+![](https://img.shields.io/badge/C-f97316?style=flat-square)
+![](https://img.shields.io/badge/QBE-f97316?style=flat-square)
+![](https://img.shields.io/badge/compiler-f97316?style=flat-square)
+
+[GitHub](https://github.com/ronak-create/Dragoon-The-Js-Compiler)
+
+</td>
+
+<td valign="top" width="33%">
+
+### TALKS
+![](https://img.shields.io/badge/live-10b981?style=flat-square)
+
+> Real-time communication platform built with Flask and WebSockets, deployed on Render.
+
+![](https://img.shields.io/badge/Flask-10b981?style=flat-square)
+![](https://img.shields.io/badge/WebSockets-10b981?style=flat-square)
+![](https://img.shields.io/badge/Render-10b981?style=flat-square)
+
+[GitHub](https://github.com/ronak-create/TALKS) · [Live](https://talks-on8z.onrender.com/)
+
+</td>
+
+</tr>
+</table>
+
 <br/>
-
-<div align="center" margin="50px">
-
-  <img height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/ronak-create?cardType=level&theme=radical&preferLogin=false" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&layout=compact" />
-
-</div>
-
-<br clear="both"/>
-<div align="center">
-  <a href="mailto:ronakparmar2428@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ronak-parmar-200019253">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.instagram.com/ronak._.parmar02/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://codepen.io/Ron2428">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=FFFFFF&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-</div>
-
-<br clear="both"/>
-
 <p align="center">
-  <i>building depth</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronak-create&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="200"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&layout=compact&langs_count=6" height="200"/>
 </p>
 
-###
+<br/>
 
-![snake gif](https://raw.githubusercontent.com/ronak-create/ronak-create/output/snake.svg)
+<p align="center">
+  <a href="mailto:ronakparmar2428@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ronak-parmar-200019253"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.instagram.com/ronak._.parmar02/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://codepen.io/Ron2428"><img src="https://img.shields.io/badge/-codepen-000000?style=flat-square&logo=codepen&logoColor=white"/></a>
+</p>
 
-###
+<br/>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6366f1/ronak-create" alt="contribution graph" width="720"/>
+</p>
+
+<br/>
+
+<p align="center"><sub><i>building depth</i></sub></p>

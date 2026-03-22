@@ -4,7 +4,7 @@
 
 ---
 
-<img src="./assets/heading line.png" alth="Heading"/>
+<img src="./assets/heading_line.png" alt="Heading"/>
 
 ---
  

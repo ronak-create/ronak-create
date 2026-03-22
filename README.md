@@ -12,85 +12,82 @@
 <table>
   <tr>
     <td align="center" width="100" height="40">
-      <img src="./assets/c-icon.svg" height="40"/><br/>$${\color{gray}\text{C}}$$
+      <img src="./assets/c-icon.svg" height="40" loading="lazy"/><br/>C
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/python-icon.svg" height="40"/><br/>$${\color{gray}\text{Python}}$$
-    </td>
-    <!-- java removed -->
-    <td align="center" width="100" height="40">
-      <img src="./assets/js-icon.svg" height="40"/><br/>$${\color{gray}\text{JavaScript}}$$
+      <img src="./assets/python-icon.svg" height="40" loading="lazy"/><br/>Python
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/ts-icon.svg" height="40"/><br/>$${\color{gray}\text{TypeScript}}$$
+      <img src="./assets/js-icon.svg" height="40" loading="lazy"/><br/>JavaScript
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/react-icon.svg" height="40"/><br/>$${\color{gray}\text{React}}$$
+      <img src="./assets/ts-icon.svg" height="40" loading="lazy"/><br/>TypeScript
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/fastapi-icon.svg" height="40"/><br/>$${\color{gray}\text{Fast API}}$$
+      <img src="./assets/react-icon.svg" height="40" loading="lazy"/><br/>React
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>$${\color{gray}\text{Node.js}}$$
+      <img src="./assets/fastapi-icon.svg" height="40" loading="lazy"/><br/>Fast API
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/express-icon.svg" height="40"/><br/>$${\color{gray}\text{Express}}$$
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100" height="40">
-      <img src="./assets/flask-icon.svg" height="40"/><br/>$${\color{gray}\text{Flask}}$$
-    </td>
-    <!-- django removed -->
-    <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br/>$${\color{gray}\text{TensorFlow}}$$
-    </td>
-    <!-- pytorch removed -->
-    <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=opencv" height="40"/><br/>$${\color{gray}\text{OpenCV}}$$
+      <img src="./assets/nodejs-icon.svg" height="40" loading="lazy"/><br/>Node.js
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br/>$${\color{gray}\text{MongoDB}}$$
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=postgres" height="40"/><br/>$${\color{gray}\text{PostgreSQL}}$$
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="./assets/mysql-icon.svg" height="40"/><br/>$${\color{gray}\text{MySQL}}$$
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br/>$${\color{gray}\text{SQLite}}$$
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="./assets/github-icon.svg" height="40"/><br/>$${\color{gray}\text{GitHub}}$$
+      <img src="./assets/express-icon.svg" height="40" loading="lazy"/><br/>Express
     </td>
   </tr>
 
   <tr>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=redis" height="40"/><br/>$${\color{gray}\text{Redis}}$$
+      <img src="./assets/flask-icon.svg" height="40" loading="lazy"/><br/>Flask
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/git-icon.svg" height="40"/><br/>$${\color{gray}\text{Git}}$$
+      <img src="./assets/tensorflow-icon.svg" height="40" loading="lazy"/><br/>TensorFlow
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/firebase-icon.svg" height="40"/><br/>$${\color{gray}\text{Firebase}}$$
+      <img src="./assets/opencv-icon.svg" height="40" loading="lazy"/><br/>OpenCV
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/docker-icon.svg" height="40"/><br/>$${\color{gray}\text{Docker}}$$
+      <img src="./assets/mongodb-icon.svg" height="40" loading="lazy"/><br/>MongoDB
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=githubactions" height="40"/><br/>$${\color{gray}\text{GActions}}$$
+      <img src="./assets/postgresql-icon.svg" height="40" loading="lazy"/><br/>PostgreSQL
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>$${\color{gray}\text{Linux}}$$
+      <img src="./assets/mysql-icon.svg" height="40" loading="lazy"/><br/>MySQL
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/bash.svg" height="40"/><br/>$${\color{gray}\text{Bash}}$$
+      <img src="./assets/sqlite-icon.svg" height="40" loading="lazy"/><br/>SQLite
     </td>
     <td align="center" width="100" height="40">
-      <img src="https://skillicons.dev/icons?i=vscode" height="40"/><br/>$${\color{gray}\text{VS Code}}$$
+      <img src="./assets/github-icon.svg" height="40" loading="lazy"/><br/>GitHub
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100" height="40">
+      <img src="./assets/redis-icon.svg" height="40" loading="lazy"/><br/>Redis
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="./assets/git-icon.svg" height="40" loading="lazy"/><br/>Git
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="./assets/firebase-icon.svg" height="40" loading="lazy"/><br/>Firebase
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="./assets/docker-icon.svg" height="40" loading="lazy"/><br/>Docker
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="./assets/githubactions-icon.svg" height="40" loading="lazy"/><br/>GActions
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="./assets/linux-icon.svg" height="40" loading="lazy"/><br/>Linux
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="./assets/bash-icon.svg" height="40" loading="lazy"/><br/>Bash
+    </td>
+    <td align="center" width="100" height="40">
+      <img src="./assets/vscode-icon.svg" height="40" loading="lazy"/><br/>VS Code
     </td>
   </tr>
 </table>

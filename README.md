@@ -158,7 +158,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/rowkav09/GitHub-profile-stats"><img src="https://ghstats.dev/api/card?username=ronak-create&theme=ocean" alt="GitHub Stats" /></a>
+  <a href="https://github.com/rowkav09/GitHub-profile-stats"><img src="https://ghstats.dev/api/card?username=ronak-create&theme=ocean&hide=streak" alt="GitHub Stats" /></a>
 </p>
 
 <br/>

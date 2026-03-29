@@ -153,7 +153,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ronak-create&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&layout=compact&langs_count=6" height="200"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&layout=compact&langs_count=8" height="200"/>
+</p>
+<br />
+
+<p align="center">
+  <a href="https://github.com/rowkav09/GitHub-profile-stats"><img src="https://ghstats.dev/api/card?username=ronak-create&theme=ocean" alt="GitHub Stats" /></a>
 </p>
 
 <br/>

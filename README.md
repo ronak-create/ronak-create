@@ -1,13 +1,85 @@
 <p align="center">
-  <img src="https://gist.githubusercontent.com/Fabian-Martinez-Rincon/47a7edee2ca4ed8eb69e00d6037eff72/raw/0928a033f9fd50a3b1786da35446e4f3ad54c6d4/vegeta.gif" width="600"/>
+  <img src="https://gist.githubusercontent.com/Fabian-Martinez-Rincon/47a7edee2ca4ed8eb69e00d6037eff72/raw/0928a033f9fd50a3b1786da35446e4f3ad54c6d4/vegeta.gif" width="520"/>
 </p>
 
 ---
 
-<img src="./assets/heading_line.png" alt="Heading"/>
+<img src="./assets/heading_line.png" alt="[CS undergrad] Creative focus — APIs, system design, understanding how things actually work."/>
 
 ---
- 
+
+<p align="center">
+  I'm <strong>Ronak Parmar</strong> — I build things end-to-end: web platforms, dev tools, applied CV, and the occasional compiler.<br/>
+  Vadodara, India &nbsp;·&nbsp; <a href="https://www.ronakparmar.space"><strong>ronakparmar.space</strong></a>
+</p>
+
+<br/>
+
+## Now building
+
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
+### FableCut
+![](https://img.shields.io/badge/status-active-6366f1?style=flat-square)
+
+> Browser-based video editor an AI agent can drive — JSON timeline, MCP server, edit by conversation instead of by scrubbing.
+
+![](https://img.shields.io/badge/JavaScript-6366f1?style=flat-square)
+![](https://img.shields.io/badge/MCP-6366f1?style=flat-square)
+![](https://img.shields.io/badge/AI%20agents-6366f1?style=flat-square)
+
+[GitHub](https://github.com/ronak-create/FableCut)
+
+</td>
+
+<td valign="top" width="33%">
+
+### Foundation CLI
+[![npm](https://img.shields.io/npm/v/@systemlabs/foundation-cli?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
+[![downloads](https://img.shields.io/npm/dm/@systemlabs/foundation-cli?style=flat-square&color=a5b4fc)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
+
+> Full-stack project generator — scaffold an opinionated, production-shaped codebase in one command.
+
+![](https://img.shields.io/badge/CLI-6366f1?style=flat-square)
+![](https://img.shields.io/badge/TypeScript-6366f1?style=flat-square)
+
+[npm](https://www.npmjs.com/package/@systemlabs/foundation-cli) · [GitHub](https://github.com/ronak-create/Foundation-Cli) · [Docs](https://ronak-create.github.io/Foundation-Cli/)
+
+</td>
+
+<td valign="top" width="33%">
+
+### Dragoon
+![](https://img.shields.io/badge/status-in%20progress-f97316?style=flat-square)
+
+> A JavaScript compiler written in C, targeting QBE — because the best way to understand JS is to compile it.
+
+![](https://img.shields.io/badge/C-f97316?style=flat-square)
+![](https://img.shields.io/badge/QBE-f97316?style=flat-square)
+![](https://img.shields.io/badge/compiler-f97316?style=flat-square)
+
+[GitHub](https://github.com/ronak-create/Dragoon-The-Js-Compiler)
+
+</td>
+
+</tr>
+</table>
+
+## Selected work
+
+| | |
+|---|---|
+| **[TerraFirm](https://github.com/ronak-create/TerraFirm)** | Interactive 3D globe — WebGL rendering over OpenStreetMap data |
+| **[Road Damage Detection](https://github.com/ronak-create/Road-Damage-Detection)** | Fine-tuned YOLOv8 that spots potholes, with an [admin dashboard](https://github.com/ronak-create/VMC-RoadDamageDetection) built for the Vadodara civic body |
+| **[BazaarX](https://github.com/ronak-create/BazaarX-Ecommerce-Market)** | E-commerce marketplace platform, TypeScript end-to-end |
+| **[TALKS](https://github.com/ronak-create/TALKS)** | Real-time chat on Flask + WebSockets — [live](https://talks-on8z.onrender.com/) |
+| **[Dramatic Commit](https://github.com/ronak-create/Dramatic-Commit)** | Git commit messages, but theatrical |
+
+<br/>
+
 <div align="center">
 <table>
   <tr>
@@ -27,20 +99,16 @@
       <img src="./assets/react-icon.svg" height="40" loading="lazy"/><br/>React
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/fastapi-icon.svg" height="40" loading="lazy"/><br/>Fast API
-    </td>
-    <td align="center" width="100" height="40">
       <img src="./assets/nodejs-icon.svg" height="40" loading="lazy"/><br/>Node.js
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/express-icon.svg" height="40" loading="lazy"/><br/>Express
+      <img src="./assets/fastapi-icon.svg" height="40" loading="lazy"/><br/>FastAPI
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="100" height="40">
       <img src="./assets/flask-icon.svg" height="40" loading="lazy"/><br/>Flask
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100" height="40">
       <img src="./assets/tensorflow-icon.svg" height="40" loading="lazy"/><br/>TensorFlow
     </td>
@@ -54,25 +122,7 @@
       <img src="./assets/postgresql-icon.svg" height="40" loading="lazy"/><br/>PostgreSQL
     </td>
     <td align="center" width="100" height="40">
-      <img src="./assets/mysql-icon.svg" height="40" loading="lazy"/><br/>MySQL
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="./assets/sqlite-icon.svg" height="40" loading="lazy"/><br/>SQLite
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="./assets/github-icon.svg" height="40" loading="lazy"/><br/>GitHub
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100" height="40">
       <img src="./assets/redis-icon.svg" height="40" loading="lazy"/><br/>Redis
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="./assets/git-icon.svg" height="40" loading="lazy"/><br/>Git
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="./assets/firebase-icon.svg" height="40" loading="lazy"/><br/>Firebase
     </td>
     <td align="center" width="100" height="40">
       <img src="./assets/docker-icon.svg" height="40" loading="lazy"/><br/>Docker
@@ -83,87 +133,27 @@
     <td align="center" width="100" height="40">
       <img src="./assets/linux-icon.svg" height="40" loading="lazy"/><br/>Linux
     </td>
-    <td align="center" width="100" height="40">
-      <img src="./assets/bash-icon.svg" height="40" loading="lazy"/><br/>Bash
-    </td>
-    <td align="center" width="100" height="40">
-      <img src="./assets/vscode-icon.svg" height="40" loading="lazy"/><br/>VS Code
-    </td>
   </tr>
 </table>
 </div>
 
----
-
-## Building
-
-<table>
-<tr>
-
-<td valign="top" width="33%">
-
-### Foundation Cli
-[![npm](https://img.shields.io/npm/v/@systemlabs/foundation-cli?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
-[![downloads](https://img.shields.io/npm/dm/@systemlabs/foundation-cli?style=flat-square&color=a5b4fc)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
-
-> CLI toolkit for scaffolding and managing project foundations — fast, opinionated, and extensible.
-
-![](https://img.shields.io/badge/CLI-6366f1?style=flat-square)
-![](https://img.shields.io/badge/Node.js-6366f1?style=flat-square)
-![](https://img.shields.io/badge/scaffolding-6366f1?style=flat-square)
-
-[npm](https://www.npmjs.com/package/@systemlabs/foundation-cli) · [GitHub](https://github.com/ronak-create/Foundation-Cli) · [Docs](https://ronak-create.github.io/Foundation-Cli/)
-
-</td>
-
-<td valign="top" width="33%">
-
-### Dragoon
-![](https://img.shields.io/badge/status-in%20progress-f97316?style=flat-square)
-
-> C-based JS compiler targeting QBE as IR — a lightweight, self-built JS → native pipeline.
-
-![](https://img.shields.io/badge/C-f97316?style=flat-square)
-![](https://img.shields.io/badge/QBE-f97316?style=flat-square)
-![](https://img.shields.io/badge/compiler-f97316?style=flat-square)
-
-[GitHub](https://github.com/ronak-create/Dragoon-The-Js-Compiler)
-
-</td>
-
-<td valign="top" width="33%">
-
-### TALKS
-![](https://img.shields.io/badge/live-10b981?style=flat-square)
-
-> Real-time communication platform built with Flask and WebSockets, deployed on Render.
-
-![](https://img.shields.io/badge/Flask-10b981?style=flat-square)
-![](https://img.shields.io/badge/WebSockets-10b981?style=flat-square)
-![](https://img.shields.io/badge/Render-10b981?style=flat-square)
-
-[GitHub](https://github.com/ronak-create/TALKS) · [Live](https://talks-on8z.onrender.com/)
-
-</td>
-
-</tr>
-</table>
-
 <br/>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronak-create&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronak-create&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&layout=compact&langs_count=8" height="200"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&layout=compact&langs_count=8" height="180"/>
 </p>
-<br />
 
 <p align="center">
-  <a href="https://github.com/rowkav09/GitHub-profile-stats"><img src="https://ghstats.dev/api/card?username=ronak-create&theme=ocean&hide=streak" alt="GitHub Stats" /></a>
+  <img src="https://ghchart.rshah.org/6366f1/ronak-create" alt="contribution graph" width="720"/>
 </p>
 
 <br/>
 
 <p align="center">
+  <a href="https://www.ronakparmar.space"><img src="https://img.shields.io/badge/-portfolio-6366f1?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  &nbsp;
   <a href="mailto:ronakparmar2428@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ronak-parmar-200019253"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -175,10 +165,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/6366f1/ronak-create" alt="contribution graph" width="720"/>
-</p>
-
-<br/>
-
 <p align="center"><sub><i>building depth</i></sub></p>
+
+---

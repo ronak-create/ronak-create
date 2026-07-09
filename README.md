@@ -140,12 +140,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ronak-create&theme=radical&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronak-create&theme=radical&hide_border=true&bg_color=00000000&layout=compact&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronak-create&bg_color=00000000&color=6366f1&line=6366f1&point=a5b4fc&area=true&area_color=6366f1&hide_border=true" alt="contribution activity" width="820"/>
 </p>
 

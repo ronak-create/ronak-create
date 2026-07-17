@@ -4,10 +4,6 @@
 
 ---
 
-<img src="./assets/heading_line.png" alt="[CS undergrad] Creative focus — APIs, system design, understanding how things actually work."/>
-
----
-
 <p align="center">
   I'm <strong>Ronak Parmar</strong> — I build things end-to-end: web platforms, dev tools, applied CV, and the occasional compiler.<br/>
   Vadodara, India &nbsp;·&nbsp; <a href="https://www.ronakparmar.space"><strong>ronakparmar.space</strong></a>

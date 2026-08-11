@@ -2,14 +2,11 @@
   <img src="https://gist.githubusercontent.com/Fabian-Martinez-Rincon/47a7edee2ca4ed8eb69e00d6037eff72/raw/0928a033f9fd50a3b1786da35446e4f3ad54c6d4/vegeta.gif" width="520"/>
 </p>
 
----
-
 <p align="center">
-  I'm <strong>Ronak Parmar</strong> — I build things end-to-end: web platforms, dev tools, applied CV, and the occasional compiler.<br/>
-  Vadodara, India &nbsp;·&nbsp; 
+  I'm <strong>Ronak Parmar</strong> - I build random stuff passionately.
 </p>
 
-<br/>
+---
 
 ## Now building
 
@@ -69,10 +66,10 @@
 | | |
 |---|---|
 | **[TerraFirm](https://github.com/ronak-create/TerraFirm)** | Interactive 3D globe — WebGL rendering over OpenStreetMap data |
+| **[LapDeck](https://github.com/ronak-create/LapDeck)** | a technical solution for controlling a Windows 10/11 laptop from a mobile device over a local network or a Tailscale mesh network |
+| **[Lynx](https://github.com/ronak-create/Lynx)** | multi-agent business research platform |
 | **[Road Damage Detection](https://github.com/ronak-create/Road-Damage-Detection)** | Fine-tuned YOLOv8 that spots potholes, with an [admin dashboard](https://github.com/ronak-create/VMC-RoadDamageDetection) built for the Vadodara civic body |
-| **[BazaarX](https://github.com/ronak-create/BazaarX-Ecommerce-Market)** | E-commerce marketplace platform, TypeScript end-to-end |
 | **[TALKS](https://github.com/ronak-create/TALKS)** | Real-time chat on Flask + WebSockets — [live](https://talks-on8z.onrender.com/) |
-| **[Dramatic Commit](https://github.com/ronak-create/Dramatic-Commit)** | Git commit messages, but theatrical |
 
 <br/>
 

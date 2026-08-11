@@ -6,7 +6,7 @@
 
 <p align="center">
   I'm <strong>Ronak Parmar</strong> — I build things end-to-end: web platforms, dev tools, applied CV, and the occasional compiler.<br/>
-  Vadodara, India &nbsp;·&nbsp; <a href="https://www.ronakparmar.space"><strong>ronakparmar.space</strong></a>
+  Vadodara, India &nbsp;·&nbsp; 
 </p>
 
 <br/>

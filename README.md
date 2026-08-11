@@ -132,15 +132,8 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronak-create&bg_color=00000000&color=6366f1&line=6366f1&point=a5b4fc&area=true&area_color=6366f1&hide_border=true" alt="contribution activity" width="820"/>
-</p>
-
-<br/>
 
 <p align="center">
-  <a href="https://www.ronakparmar.space"><img src="https://img.shields.io/badge/-portfolio-6366f1?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  &nbsp;
   <a href="mailto:ronakparmar2428@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ronak-parmar-200019253"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -149,9 +142,3 @@
   &nbsp;
   <a href="https://codepen.io/Ron2428"><img src="https://img.shields.io/badge/-codepen-000000?style=flat-square&logo=codepen&logoColor=white"/></a>
 </p>
-
-<br/>
-
-<p align="center"><sub><i>building depth</i></sub></p>
-
----

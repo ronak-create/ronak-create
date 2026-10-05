@@ -16,45 +16,45 @@
 <td valign="top" width="33%">
 
 ### FableCut
+[![stars](https://img.shields.io/github/stars/ronak-create/FableCut?style=flat-square&color=6366f1)](https://github.com/ronak-create/FableCut)
 ![](https://img.shields.io/badge/status-active-6366f1?style=flat-square)
 
-> Browser-based video editor an AI agent can drive — JSON timeline, MCP server, edit by conversation instead of by scrubbing.
+> Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI. Edit by conversation instead of by scrubbing.
 
 ![](https://img.shields.io/badge/JavaScript-6366f1?style=flat-square)
 ![](https://img.shields.io/badge/MCP-6366f1?style=flat-square)
 ![](https://img.shields.io/badge/AI%20agents-6366f1?style=flat-square)
 
-[GitHub](https://github.com/ronak-create/FableCut)
+[Site](https://fablecut.space) · [GitHub](https://github.com/ronak-create/FableCut) · [WebMCP entry](https://github.com/ronak-create/fablecut-webmcp)
 
 </td>
 
 <td valign="top" width="33%">
 
-### Foundation CLI
-[![npm](https://img.shields.io/npm/v/@systemlabs/foundation-cli?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
-[![downloads](https://img.shields.io/npm/dm/@systemlabs/foundation-cli?style=flat-square&color=a5b4fc)](https://www.npmjs.com/package/@systemlabs/foundation-cli)
+### Burrow
+![](https://img.shields.io/badge/status-active-10b981?style=flat-square)
 
-> Full-stack project generator — scaffold an opinionated, production-shaped codebase in one command.
+> Voice-driven AI research assistant on an infinite canvas. Local-first, bring your own key. Dig until you hit the root of it.
 
-![](https://img.shields.io/badge/CLI-6366f1?style=flat-square)
-![](https://img.shields.io/badge/TypeScript-6366f1?style=flat-square)
+![](https://img.shields.io/badge/TypeScript-10b981?style=flat-square)
+![](https://img.shields.io/badge/voice-10b981?style=flat-square)
+![](https://img.shields.io/badge/local--first-10b981?style=flat-square)
 
-[npm](https://www.npmjs.com/package/@systemlabs/foundation-cli) · [GitHub](https://github.com/ronak-create/Foundation-Cli) · [Docs](https://ronak-create.github.io/Foundation-Cli/)
+[Live](https://burrow.ronakparmar.space/) · [GitHub](https://github.com/ronak-create/burrow)
 
 </td>
 
 <td valign="top" width="33%">
 
-### Dragoon
-![](https://img.shields.io/badge/status-in%20progress-f97316?style=flat-square)
+### DeepSeek-V4 in C
+[![stars](https://img.shields.io/github/stars/ronak-create/deepseek-v4-in-c?style=flat-square&color=f97316)](https://github.com/ronak-create/deepseek-v4-in-c)
 
-> A JavaScript compiler written in C, targeting QBE — because the best way to understand JS is to compile it.
+> DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM — 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.
 
-![](https://img.shields.io/badge/C-f97316?style=flat-square)
-![](https://img.shields.io/badge/QBE-f97316?style=flat-square)
-![](https://img.shields.io/badge/compiler-f97316?style=flat-square)
+![](https://img.shields.io/badge/C99-f97316?style=flat-square)
+![](https://img.shields.io/badge/LLM%20inference-f97316?style=flat-square)
 
-[GitHub](https://github.com/ronak-create/Dragoon-The-Js-Compiler)
+[GitHub](https://github.com/ronak-create/deepseek-v4-in-c)
 
 </td>
 
@@ -65,11 +65,12 @@
 
 | | |
 |---|---|
-| **[TerraFirm](https://github.com/ronak-create/TerraFirm)** | Interactive 3D globe — WebGL rendering over OpenStreetMap data |
-| **[LapDeck](https://github.com/ronak-create/LapDeck)** | a technical solution for controlling a Windows 10/11 laptop from a mobile device over a local network or a Tailscale mesh network |
-| **[Lynx](https://github.com/ronak-create/Lynx)** | multi-agent business research platform |
-| **[Road Damage Detection](https://github.com/ronak-create/Road-Damage-Detection)** | Fine-tuned YOLOv8 that spots potholes, with an [admin dashboard](https://github.com/ronak-create/VMC-RoadDamageDetection) built for the Vadodara civic body |
-| **[TALKS](https://github.com/ronak-create/TALKS)** | Real-time chat on Flask + WebSockets — [live](https://talks-on8z.onrender.com/) |
+| **[Lynx](https://github.com/ronak-create/Lynx)** | Multi-agent business research — type a company and 15 agents fan out into a live dashboard, knowledge graph and documentary — [live](https://lynx.ronakparmar.space) |
+| **[Foundation CLI](https://github.com/ronak-create/Foundation-Cli)** | Dependency-aware full-stack project assembler — pick your stack, get a working app in under 3 minutes — [npm](https://www.npmjs.com/package/@systemlabs/foundation-cli) |
+| **[aero](https://github.com/ronak-create/aero)** | Zero-dependency terminal coding agent |
+| **[LapDeck](https://github.com/ronak-create/LapDeck)** | Turn your phone into a remote deck for your Windows laptop — launcher, touchpad, keyboard, live screen, media & power. One Node process, zero cloud |
+| **[TerraFirm](https://github.com/ronak-create/TerraFirm)** | Interactive 3D globe that becomes a live street map as you zoom — over free, keyless OpenStreetMap data |
+| **[Dragoon](https://github.com/ronak-create/Dragoon-The-Js-Compiler)** | A JavaScript compiler written in C, targeting QBE |
 
 <br/>
 

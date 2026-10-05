@@ -61,7 +61,7 @@
 
 ## Selected work
 
-| | |
+| Project | What it is |
 |---|---|
 | **[Lynx](https://github.com/ronak-create/Lynx)** | Multi-agent business research — type a company and 15 agents fan out into a live dashboard, knowledge graph and documentary — [live](https://lynx.ronakparmar.space) |
 | **[Foundation CLI](https://github.com/ronak-create/Foundation-Cli)** | Dependency-aware full-stack project assembler — pick your stack, get a working app in under 3 minutes — [npm](https://www.npmjs.com/package/@systemlabs/foundation-cli) |

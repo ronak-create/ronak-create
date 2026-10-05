@@ -6,8 +6,6 @@
   I'm <strong>Ronak Parmar</strong> - I build random stuff passionately.
 </p>
 
----
-
 ## Now building
 
 <table>
@@ -132,7 +130,6 @@
 </div>
 
 <br/>
-
 
 <p align="center">
   <a href="mailto:ronakparmar2428@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
